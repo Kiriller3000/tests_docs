@@ -2,7 +2,7 @@
 
 Unit_28.Тест-кейсы и баг репорты для Ростелеком https://docs.google.com/spreadsheets/d/1pWN4ZHJ0Ey_GrW3ss_FahKvt1BHswj-VnfyzFpdTSfE/edit?gid=0#gid=0
 
-Unit_20.Тест-кейсы для API Дом питомца https://docs.google.com/document/d/1kalR9wdt_Ih_8mLn75tM4SmKhElEQtcbggQRdQKi1zc/edit
+Unit_20.Чек-лист для API Дом питомца https://docs.google.com/document/d/1kalR9wdt_Ih_8mLn75tM4SmKhElEQtcbggQRdQKi1zc/edit
 
 Unit_10.Тестовая документация проекта Дом Питомца https://docs.google.com/spreadsheets/d/1X6D7OoYRcf1AfxV-8B-AMeqComCGjqxNCgjeVUfL5l4/edit?gid=0#gid=0
 
