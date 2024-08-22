@@ -1,4 +1,4 @@
-#Тестовая документация по курсу QAP:
+Тестовая документация по курсу QAP:
 
 Unit_28.Тест-кейсы и баг репорты для Ростелеком https://docs.google.com/spreadsheets/d/1pWN4ZHJ0Ey_GrW3ss_FahKvt1BHswj-VnfyzFpdTSfE/edit?gid=0#gid=0
 
